@@ -1,16 +1,38 @@
-# admin_setup
+# My Flutter App
 
-A new Flutter project.
+This is a Flutter-based mobile application designed to allow users to register, log in, and view their profile.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: Sign up, log in, and logout functionality.
+- **Profile Management**: Displays the user's profile information (Full Name, Email, Username).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Language**: Dart  
+- **Framework**: Flutter  
+- **Database**: SQLite
+
+---
+
+## 📱 Screenshots
+
+<img src="assets/image/login_screen.png" /><img src="assets/image/signup_screen.png" /><img src="assets/image/profile_screen.png" />
+
+---
+
+### Prerequisites
+
+- Flutter (https://flutter.dev/docs/get-started/install)
+- Dart SDK
+- Android Studio (or another IDE that supports Flutter)
+
+---
+
+## 👨‍💻 Author
+Vihagana99
+[GitHub Profile](https://github.com/vihagana99)
